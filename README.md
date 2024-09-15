@@ -2,6 +2,7 @@
 Version: 1.2.0
 
 **Author: Singh <3**
+
 **Overview**
 Custom-XSS is a Bash-based tool designed to automate XSS (Cross-Site Scripting) vulnerability hunting. The tool leverages multiple sources like Waybackurls, gau, and gf to collect URLs and identify potential XSS vulnerabilities. The tool can also integrate Blind XSS payloads for extensive testing and report generation.
 
