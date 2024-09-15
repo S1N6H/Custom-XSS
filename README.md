@@ -86,11 +86,11 @@ The results are saved in xss_results.txt.
 How It Works
 
 1. Directory Setup
-2. 
+   
 The tool first creates a directory structure under the results/ folder to organize output. If a directory for the target domain already exists, the tool exits with an error message.
 
-3. URL Collection
-4. 
+2. URL Collection
+   
 The tool fetches URLs using:
 
 Waybackurls: Collects archived URLs from the Wayback Machine.
