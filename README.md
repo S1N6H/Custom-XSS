@@ -17,9 +17,13 @@ Prerequisites
 To run Custom-XSS, you need to have the following tools installed on your system:
 
 Waybackurls-https://github.com/tomnomnom/waybackurls
+
 gau-https://github.com/lc/gau
+
 gf-https://github.com/tomnomnom/gf
+
 Dalfox-https://github.com/hahwul/dalfox
+
 
 
 **Installation**
