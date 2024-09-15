@@ -29,7 +29,7 @@ Dalfox-https://github.com/hahwul/dalfox
 **Installation**
 Clone this repository:
 
-git clone https://github.com/yourusername/Custom-XSS.git
+git clone https://github.com/S1N6H/Custom-XSS
 
 Navigate to the project directory:
 cd Custom-XSS
